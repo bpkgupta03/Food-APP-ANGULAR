@@ -1,0 +1,19 @@
+.footer{
+    width: 100%;
+    background-color: gainsboro;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    font-weight: 600;
+    font-size: 20px;
+    color: crimson;
+    padding: 17px;
+}
+.footer span{
+    color: blueviolet;
+}
+.footer span:hover{
+    cursor: pointer;
+    color: green;
+    font-size: 22px;
+}
